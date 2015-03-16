@@ -1,5 +1,5 @@
 # Bouncing-Balls
-Elastic collision simulation written in Objective-C++ and Cinder. Studen project.
+Elastic collision simulation written in Objective-C++ and Cinder. Student project.
 
 **[Bouncing Balls.dmg](http://cl.ly/aEhs)**
 
