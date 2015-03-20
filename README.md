@@ -1,5 +1,5 @@
 # Elastic collision simulation written in Objective-C++ and Cinder. 
-**Student project.**
+**Student project. Year 2013.**
 
 **[Bouncing Balls.dmg](http://cl.ly/aEhs)**
 
